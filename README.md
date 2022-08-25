@@ -13,4 +13,4 @@ To run the model for additional years (2008, 2010), for a distributed runoff inp
 
 Additional information on the nevis model is given in nevis.pdf (written by Ian Hewitt).
 
-Contact LAS with questions (lstevens@ldeo.columbia.edu).
+Contact LAS with questions (laura.stevens@earth.ox.ac.uk).
