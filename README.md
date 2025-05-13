@@ -1,4 +1,4 @@
-# nevis_regional
+# nevis_regional (_Stevens et al.,_ 2018)
 Hewitt (2013) subglacial hydrology model adapted for Sarqardleq region of West Greenland
 
 Citations: 
